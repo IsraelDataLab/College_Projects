@@ -1,0 +1,17 @@
+Calculating Manhattan Distance in Python in an 8-Puzzle game
+
+https://stackoverflow.com/questions/16318757/calculating-manhattan-distance-in-python-in-an-8-puzzle-game
+
+
+8-Puzzle solving using the A* algorithm using Python and PyGame
+
+https://www.codeproject.com/articles/365553/8-puzzle-solving-using-the-a-algorithm-using-pytho
+
+
+A* implementation of 8 puzzle
+https://codereview.stackexchange.com/questions/177385/a-implementation-of-8-puzzle
+
+15: 15 for printing final project
+
+
+Dictionary for Manhattan distance. 
